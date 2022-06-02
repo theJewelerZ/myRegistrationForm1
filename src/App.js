@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Join <code>The Fledge</code> Dao
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://snapshot.org/#/thefledge.eth"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn How
         </a>
       </header>
     </div>
